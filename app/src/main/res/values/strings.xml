@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">DAM_DiegoQuispe</string>
+    <string name="text_titulo">EXAMEN ADMISIÓN 2023</string>
+    <string name="text_f">Formulario de Registro</string>
+    <string name="text_ApellidosyNombres">Apellidos y Nombres</string>
+    <string name="textCamp_Nombres" />
+    <string name="text_email">Correo Electrónico</string>
+    <string name="TextCamp_email" />
+    <string name="text_clave">Clave</string>
+    <string name="textCamp_clave" />
+    <string name="text_fecha">Fecha de Nacimiento</string>
+    <string name="textCamp_fecha" />
+    <string name="text_carrera">Carrera</string>
+    <string name="text_conv">¿Por qué medio se enteró de la convocatoria?</string>
+    <string name="button_enviar">Enviar</string>
+    <string name="rb_sistemas">Ingeniería de Sistemas</string>
+    <string name="rb_ambiental">Ingeniería Ambiental</string>
+    <string name="rb_mecanica">Ingeniería Mecánica</string>
+    <string name="rb_administracion">Administración</string>
+    <string name="cb_radio">Radio</string>
+    <string name="cb_internet">Internet</string>
+    <string name="cb_publicidad">Publicidad</string>
+    <string name="cb_amigo">Amigo</string>
+    <string name="conv">¿Por qué medio se enteró de la convocatoria?</string>
+</resources>
